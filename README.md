@@ -23,7 +23,7 @@ Este proyecto presenta apliacaciones Web Scraping, la cual es un Proceso de extr
 
 
 # Featured Notebooks
-* [Jupyter Notebook - Web Scrapping](https://github.com/neiluz/IT_Academy_Spring9_Text_mining/blob/main/Spring_9_textMinning.ipynb)
+* [Jupyter Notebook - Web Scrapping](https://github.com/neiluz/IT_Academy_Spring_10WebScrapping/blob/main/Web%20Scrapping.ipynb)
 
 # Sources
 * [BS DataCamp Tutorial](https://www.datacamp.com/tutorial/web-scraping-python-nlp)
